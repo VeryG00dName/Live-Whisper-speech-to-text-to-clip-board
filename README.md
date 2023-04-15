@@ -3,12 +3,12 @@ This is a Python script that uses Whisper to transcribe speech from the device m
 
 # Requirements
 Python 3.6 or higher
-whisper
-os
-numpy
-sounddevice
-scipy
-keyboard
+whisper,
+os,
+numpy,
+sounddevice,
+scipy,
+keyboard,
 pyperclip
 # Usage
 Clone or download this repository
